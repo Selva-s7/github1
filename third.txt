@@ -1,1 +1,1 @@
-just a normal file for checking the add command
+just a normal file for checking the add command and changing it
